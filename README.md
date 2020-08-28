@@ -16,7 +16,7 @@ $ cd mock
 $ yarn install #或者 npm install
 ```
 
-运行
+## 运行
 
 ```bash
 # 回到根目录
